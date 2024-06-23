@@ -8,7 +8,8 @@ Alternatively the box can be used using the touch-display on the top.
 
 ## Components of the box
 
-TODO
+* [Main PCB](./Components/MainPCB.md)
+* ["Connectors PCB"](./Components/ConnectionsPCB.md) hold the connectors: USB-C and audio
 
 ## Resources
 
