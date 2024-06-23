@@ -20,3 +20,5 @@ There was not much to find with regard to repairing a Tigerbox.
   * [Also available in english](https://www.galaxus.de/en/page/how-to-replace-the-touchscreen-on-the-tigerbox-17867)
 * [Opening the bottom](https://www.youtube.com/watch?v=6Rw06Z_8QL8)
   * A youtube short on opening the bottom
+* [tigerbox-reverse-engineering/tigerbox](https://github.com/tigerbox-reverse-engineering/tigerbox)
+  * Information on unlocking and doing "something different" with the Tigerbox.
